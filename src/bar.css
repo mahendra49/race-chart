@@ -1,0 +1,10 @@
+.bar{
+    margin: 10px 0;
+    border: 2px solid blue;
+    position: relative;
+}
+
+.bar-value {
+
+  float: right;  
+}
